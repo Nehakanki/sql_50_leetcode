@@ -15,3 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/Nehakanki/sql_50_leetcode/tree/master/1877-find-followers-count) |
 | [1942-primary-department-for-each-employee](https://github.com/Nehakanki/sql_50_leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nehakanki/sql_50_leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+# Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0547-number-of-provinces) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0547-number-of-provinces) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0547-number-of-provinces) |
