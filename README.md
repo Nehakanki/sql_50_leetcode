@@ -55,14 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Linked List
@@ -78,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nehakanki/sql_50_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nehakanki/sql_50_leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
